@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MVC_Project_ELearning.Data;
 using MVC_Project_ELearning.Services.Interfaces;
 using MVC_Project_ELearning.Services;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped <IInformationService, InformationService>();
 
 
 

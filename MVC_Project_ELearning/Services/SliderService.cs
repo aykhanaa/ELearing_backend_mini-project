@@ -116,6 +116,7 @@ namespace MVC_Project_ELearning.Services
         {
             Slider slider = await _context.Sliders.FirstOrDefaultAsync(m => m.Id == id);
 
+
             return new SliderVM
             {
                 Id = slider.Id,

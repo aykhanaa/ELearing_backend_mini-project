@@ -502,6 +502,7 @@ C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.RazorAssemblyInfo.cache
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.sourcelink.json
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\staticwebassets\msbuild.MVC_Project_ELearning.Microsoft.AspNetCore.StaticWebAssets.props
@@ -518,4 +519,3 @@ C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.pdb
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.genruntimeconfig.cache
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\ref\MVC_Project_ELearning.dll
-C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.sourcelink.json

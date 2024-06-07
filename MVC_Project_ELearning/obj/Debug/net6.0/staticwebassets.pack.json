@@ -1557,8 +1557,36 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\1.jpeg",
+      "PackagePath": "staticwebassets\\img\\1.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg",
       "PackagePath": "staticwebassets\\img\\17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\2.jpeg",
+      "PackagePath": "staticwebassets\\img\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\3.jpeg",
+      "PackagePath": "staticwebassets\\img\\3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\4.jpeg",
+      "PackagePath": "staticwebassets\\img\\4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\9f74d7a6-4137-426e-b607-36a4e4c0c193-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\9f74d7a6-4137-426e-b607-36a4e4c0c193-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\a9399455-40ac-4171-96b4-6e4f08ea864a-4.jpeg",
+      "PackagePath": "staticwebassets\\img\\a9399455-40ac-4171-96b4-6e4f08ea864a-4.jpeg"
     },
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\about.jpg",
@@ -1611,6 +1639,14 @@
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\d4212af3-5303-4d0c-b778-34b53502e186-02.jpg",
       "PackagePath": "staticwebassets\\img\\d4212af3-5303-4d0c-b778-34b53502e186-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\ded1b650-1807-4f3e-aec0-3da6d50300f1-cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\ded1b650-1807-4f3e-aec0-3da6d50300f1-cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\e44f472d-02f5-4988-872c-7d998420213b-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\e44f472d-02f5-4988-872c-7d998420213b-3.jpeg"
     },
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg",

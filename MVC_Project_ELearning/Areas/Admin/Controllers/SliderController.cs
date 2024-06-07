@@ -155,7 +155,7 @@ namespace MVC_Project_ELearning.Areas.Admin.Controllers
                 }
                 if (!request.NewImage.CheckFileSize(1024))
                 {
-                    ModelState.AddModelError("NewImage", "Image size must be max 200 KB");
+                    ModelState.AddModelError("NewImage", "Image size must be max 1024 KB");
                     return View(request);
                 }
 
