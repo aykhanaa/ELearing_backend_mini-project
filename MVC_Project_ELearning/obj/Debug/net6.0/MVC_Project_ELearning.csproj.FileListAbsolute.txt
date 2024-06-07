@@ -518,3 +518,4 @@ C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.pdb
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.genruntimeconfig.cache
 C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\ref\MVC_Project_ELearning.dll
+C:\Users\Hp\Desktop\MVC_Project_ELearning\MVC_Project_ELearning\obj\Debug\net6.0\MVC_Project_ELearning.sourcelink.json

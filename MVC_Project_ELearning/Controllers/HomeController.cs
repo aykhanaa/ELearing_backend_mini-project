@@ -1,26 +1,38 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVC_Project_ELearning.Models;
+using MVC_Project_ELearning.Services.Interfaces;
+using MVC_Project_ELearning.ViewModels;
+using MVC_Project_ELearning.ViewModels.Sliders;
 using System.Diagnostics;
 
 namespace MVC_Project_ELearning.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ISliderService _sliderService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ISliderService sliderService)
         {
-            _logger = logger;
+            _sliderService = sliderService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+           var slider = await _sliderService.GetAllAsync();
+
+            HomeVM model = new()
+            {
+                Sliders = slider.Select(m => new SliderVM
+                {
+                    Image = m.Image,
+                    Title = m.Title,
+                    Description = m.Description,
+
+                })
+            };
+            return View(model);
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+       
     }
 }

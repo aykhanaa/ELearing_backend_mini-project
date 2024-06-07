@@ -1557,12 +1557,20 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg",
-      "PackagePath": "staticwebassets\\img\\42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg"
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg"
     },
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\about.jpg",
       "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\b8ad1244-ce33-46dc-81cb-b857760c6b4a-03.jpg",
+      "PackagePath": "staticwebassets\\img\\b8ad1244-ce33-46dc-81cb-b857760c6b4a-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\c85aa02b-a9ab-48be-ac30-186019acfffc-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\c85aa02b-a9ab-48be-ac30-186019acfffc-avatar-1.jpg"
     },
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\carousel-1.jpg",
@@ -1599,6 +1607,18 @@
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\course-3.jpg",
       "PackagePath": "staticwebassets\\img\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\d4212af3-5303-4d0c-b778-34b53502e186-02.jpg",
+      "PackagePath": "staticwebassets\\img\\d4212af3-5303-4d0c-b778-34b53502e186-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg",
+      "PackagePath": "staticwebassets\\img\\eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\f4862a61-91aa-49ad-8725-9691d8e82b39-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\f4862a61-91aa-49ad-8725-9691d8e82b39-carousel-2.jpg"
     },
     {
       "Id": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\team-1.jpg",

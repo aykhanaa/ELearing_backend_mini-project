@@ -50,10 +50,51 @@ namespace MVC_Project_ELearning.Services
             await _context.SaveChangesAsync();
         }
 
+        public async Task EditAsync(int id, SliderEditVM request)
+        {
+            var slider = await _context.Sliders.FirstOrDefaultAsync(m => m.Id == id);
+
+            slider.Title = request.Title;
+
+            slider.Description = request.Description;
+
+            if (request.NewImage is not null)
+            {
+                string oldPath = _env.GenerateFilePath("img", slider.Image);
+
+                oldPath.DeleteFileFromLocal();
+
+                string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
+
+                string newPath = _env.GenerateFilePath("img", fileName);
+
+                await request.NewImage.SaveFileToLocalAsync(newPath);
+
+                slider.Image = fileName;
+            }
+
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task EditAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<bool> ExceptByIdAsync(int id, string title)
+        {
+            return await _context.Sliders.AnyAsync(m => m.Title.Trim() == title.Trim() && m.Id != id);
+        }
 
         public async Task<bool> ExistAsync(string title, string description)
         {
             return await _context.Sliders.AnyAsync(m => m.Title.Trim() == title.Trim() || m.Description.Trim() == description.Trim());
+        }
+
+
+        public async Task<bool> ExistExceptByIdAsync(int id, string title, string description)
+        {
+            return await _context.Sliders.AnyAsync(m => m.Id != id && (m.Title.Trim() == title.Trim() || m.Description.Trim() == description.Trim()));
         }
 
         public async Task<IEnumerable<SliderVM>> GetAllAsync(int? take = null)

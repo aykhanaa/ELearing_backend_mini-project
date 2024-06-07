@@ -1,9 +1,8 @@
-﻿using MVC_Project_ELearning.Models;
-using MVC_Project_ELearning.ViewModels.Sliders;
+﻿using MVC_Project_ELearning.ViewModels.Sliders;
 
 namespace MVC_Project_ELearning.Services.Interfaces
 {
-    public interface ISliderService
+    public interface IInformationService
     {
         Task<IEnumerable<SliderVM>> GetAllAsync(int? take = null);
         Task CreateAsync(SliderCreateVM request);
@@ -14,5 +13,6 @@ namespace MVC_Project_ELearning.Services.Interfaces
         Task<bool> ExistExceptByIdAsync(int id, string title, string description);
         Task<bool> ExceptByIdAsync(int id, string title);
         Task EditAsync();
+
     }
 }
