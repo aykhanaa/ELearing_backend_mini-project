@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gTbM0cHFUFG+Q1nxZu156+2gPuPxajS+8HLHOjWa4S8=",
+  "Hash": "7DK9X08WxasVJ1apkir6oWb8H+d/yTNK6dTTCVOY+w4=",
   "Source": "MVC_Project_ELearning",
   "BasePath": "_content/MVC_Project_ELearning",
   "Mode": "Default",
@@ -7427,6 +7427,25 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\0ba623c5-787f-4a6f-8532-cb607dd2063e-17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg",
+      "SourceId": "MVC_Project_ELearning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
+      "BasePath": "_content/MVC_Project_ELearning",
+      "RelativePath": "img/0ba623c5-787f-4a6f-8532-cb607dd2063e-17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0ba623c5-787f-4a6f-8532-cb607dd2063e-17269c51-c5a9-4710-8128-8e871a41f06a-carousel-1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\1.jpeg",
       "SourceId": "MVC_Project_ELearning",
       "SourceType": "Discovered",
@@ -7484,6 +7503,25 @@
       "OriginalItemSpec": "wwwroot\\img\\2.jpeg"
     },
     {
+      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\2026e803-8361-45b4-9acf-f714bbf8fe10-about.jpg",
+      "SourceId": "MVC_Project_ELearning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
+      "BasePath": "_content/MVC_Project_ELearning",
+      "RelativePath": "img/2026e803-8361-45b4-9acf-f714bbf8fe10-about.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2026e803-8361-45b4-9acf-f714bbf8fe10-about.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\3.jpeg",
       "SourceId": "MVC_Project_ELearning",
       "SourceType": "Discovered",
@@ -7501,6 +7539,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg",
+      "SourceId": "MVC_Project_ELearning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
+      "BasePath": "_content/MVC_Project_ELearning",
+      "RelativePath": "img/33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\4.jpeg",
@@ -7522,12 +7579,12 @@
       "OriginalItemSpec": "wwwroot\\img\\4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\7bc58126-eee7-4304-a602-76a77de92b71-cat-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg",
       "SourceId": "MVC_Project_ELearning",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
       "BasePath": "_content/MVC_Project_ELearning",
-      "RelativePath": "img/7bc58126-eee7-4304-a602-76a77de92b71-cat-2.jpg",
+      "RelativePath": "img/547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7538,7 +7595,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\7bc58126-eee7-4304-a602-76a77de92b71-cat-2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\9f74d7a6-4137-426e-b607-36a4e4c0c193-1.jpeg",
