@@ -49,9 +49,30 @@ namespace MVC_Project_ELearning.Services
             await _context.SaveChangesAsync();
         }
 
-        public Task EditAsync(int id, InformationEditVM request)
+        public async Task EditAsync(int id, InformationEditVM request)
         {
-            throw new NotImplementedException();
+            var information = await _context.Informations.FirstOrDefaultAsync(m => m.Id == id);
+
+            information.Title = request.Title;
+
+            information.Description = request.Description;
+
+            if (request.NewImage is not null)
+            {
+                string oldPath = _env.GenerateFilePath("img", information.Image);
+
+                oldPath.DeleteFileFromLocal();
+
+                string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
+
+                string newPath = _env.GenerateFilePath("img", fileName);
+
+                await request.NewImage.SaveFileToLocalAsync(newPath);
+
+                information.Image = fileName;
+            }
+
+            await _context.SaveChangesAsync();
         }
 
         public async Task EditAsync()
