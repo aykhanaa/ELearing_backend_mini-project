@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7DK9X08WxasVJ1apkir6oWb8H+d/yTNK6dTTCVOY+w4=",
+  "Hash": "3eJL2934PqOt4mCRRlIL1xpVPPHvJOoioRwPI8imJco=",
   "Source": "MVC_Project_ELearning",
   "BasePath": "_content/MVC_Project_ELearning",
   "Mode": "Default",
@@ -7541,25 +7541,6 @@
       "OriginalItemSpec": "wwwroot\\img\\3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg",
-      "SourceId": "MVC_Project_ELearning",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
-      "BasePath": "_content/MVC_Project_ELearning",
-      "RelativePath": "img/33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\33ecf7d1-d94d-4943-a68e-aa497f76d862-a742d85a-e89d-4af5-9df2-8354e5d36984-2.jpeg"
-    },
-    {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\4.jpeg",
       "SourceId": "MVC_Project_ELearning",
       "SourceType": "Discovered",
@@ -7577,25 +7558,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\4.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg",
-      "SourceId": "MVC_Project_ELearning",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
-      "BasePath": "_content/MVC_Project_ELearning",
-      "RelativePath": "img/547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\547b3780-eb69-4bf1-a8e7-774bbb3674c2-4.jpeg"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\9f74d7a6-4137-426e-b607-36a4e4c0c193-1.jpeg",
@@ -7900,6 +7862,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\d4212af3-5303-4d0c-b778-34b53502e186-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\e07dc445-91ba-48bf-b247-2f95f6e7b979-eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg",
+      "SourceId": "MVC_Project_ELearning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\",
+      "BasePath": "_content/MVC_Project_ELearning",
+      "RelativePath": "img/e07dc445-91ba-48bf-b247-2f95f6e7b979-eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e07dc445-91ba-48bf-b247-2f95f6e7b979-eeeb1e4e-87d3-4caa-9d55-b84b3fd12e0c-03.jpg"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\wwwroot\\img\\e44f472d-02f5-4988-872c-7d998420213b-3.jpeg",

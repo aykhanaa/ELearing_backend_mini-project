@@ -10,6 +10,8 @@ namespace MVC_Project_ELearning.ViewModels
         public IEnumerable<SliderVM> Sliders { get; set; }
         public IEnumerable<InformationVM> Informations { get; set; }
         public MVC_Project_ELearning.Models.About Abouts{ get; set; }
+
+
     }
 }
 
