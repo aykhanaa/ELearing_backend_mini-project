@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj": {
+    "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
         "projectName": "MVC_Project_ELearning",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

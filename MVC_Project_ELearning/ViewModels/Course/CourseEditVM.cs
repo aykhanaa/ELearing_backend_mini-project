@@ -1,4 +1,4 @@
-﻿using MVC_Project_ELearning.ViewModels.Course;
+﻿using MVC_Project_ELearning.Models;
 
 namespace MVC_Projekt_Elearning.ViewModels.Courses
 {

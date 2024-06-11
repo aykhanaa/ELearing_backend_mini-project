@@ -4,6 +4,8 @@ using MVC_Project_ELearning.Data;
 using MVC_Project_ELearning.Services.Interfaces;
 using MVC_Project_ELearning.Services;
 using System.Configuration;
+using MVC_Projekt_Elearning.Services;
+using MVC_Projekt_Elearning.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +21,8 @@ builder.Services.AddScoped<IAboutService, AboutService>();
 builder.Services.AddScoped<IAboutService, AboutService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<ICourseService, CourseService>();
+builder.Services.AddScoped<IInstructorService, InstructorService>();
+
 
 
 

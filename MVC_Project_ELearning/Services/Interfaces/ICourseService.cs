@@ -1,9 +1,7 @@
 ﻿using MVC_Project_ELearning.Models;
-using MVC_Project_ELearning.ViewModels.Course;
 using MVC_Projekt_Elearning.ViewModels.Courses;
 
-
-namespace MVC_Projekt_Elearning.Services.Interfaces
+namespace MVC_Project_ELearning.Services.Interfaces
 {
     public interface ICourseService
     {
@@ -20,7 +18,5 @@ namespace MVC_Projekt_Elearning.Services.Interfaces
         Task<Course> GetByIdWithCoursesImagesAsync(int id);
         Task<CourseImage> GetCourseImageByIdAsync(int id);
         Task ImageDeleteAsync(CourseImage image);
-
-
     }
 }

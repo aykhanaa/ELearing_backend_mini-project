@@ -15,8 +15,9 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th>Image</th>
                     <th>Name</th>
+                    <th>Rating</th>
+                    <th>Duration</th>
                     <th>Price</th>
                     <th>Category</th>
                     <th>Operations</th>
@@ -28,6 +29,8 @@
                     <tr class="category-data">
                         <td><img src="~/assets/images/@item.MainImage" alt="" /></td>
                         <td>@item.Name</td>
+                        <td>@item.Rating</td>
+                        <td>@item.Duration</td>
                         <td>@item.Price</td>
                         <td>@item.CategoryName</td>
                         <td>
@@ -52,4 +55,3 @@
         </table>
     </div>
 </div>
-

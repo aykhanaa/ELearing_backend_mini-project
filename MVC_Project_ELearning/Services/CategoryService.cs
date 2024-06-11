@@ -5,6 +5,7 @@ using MVC_Project_ELearning.Helpers.Extensions;
 using MVC_Project_ELearning.Models;
 using MVC_Project_ELearning.Services.Interfaces;
 using MVC_Project_ELearning.ViewModels.Categories;
+using MVC_Projekt_Elearning.ViewModels.Categories;
 
 namespace MVC_Project_ELearning.Services
 {
@@ -97,6 +98,20 @@ namespace MVC_Project_ELearning.Services
             var categories = await _context.Categories.ToListAsync();
 
             return new SelectList(categories, "Id", "Name");
+        }
+
+        public async Task<IEnumerable<CategoryCourseVM>> GetAlWithProductCountAsync()
+        {
+            IEnumerable<Category> categories = await _context.Categories.Include(m => m.Courses).OrderByDescending(m => m.Id)
+                                                                      .ToListAsync();
+            return categories.Select(m => new CategoryCourseVM
+            {
+                Id = m.Id,
+                CategoryName = m.Name,
+                CreatedDate = m.CreatedDate.ToString("MM.dd.yyyy"),
+                CourseCount = m.Courses.Count,
+                Image = m.Image,
+            });
         }
 
         public async Task<Category> GetByIdAsync(int id)

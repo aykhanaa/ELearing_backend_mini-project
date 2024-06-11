@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MVC_Project_ELearning.Data;
 using MVC_Project_ELearning.Models;
-using MVC_Projekt_Elearning.Services.Interfaces;
+using MVC_Project_ELearning.Services.Interfaces;
 using MVC_Projekt_Elearning.ViewModels.Courses;
 
 namespace MVC_Projekt_Elearning.Services

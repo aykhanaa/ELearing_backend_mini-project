@@ -28,7 +28,7 @@ namespace MVC_Project_ELearning.Areas.Admin.Controllers
         
         public async Task< IActionResult> Index()
         {
-            return View(await _categoryService.GetAllAsync());
+            return View(await _categoryService.GetAlWithProductCountAsync());
         }
 
         [HttpGet]

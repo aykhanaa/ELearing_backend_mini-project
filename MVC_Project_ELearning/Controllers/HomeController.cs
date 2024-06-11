@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic;
 using MVC_Project_ELearning.Models;
+using MVC_Project_ELearning.Services;
 using MVC_Project_ELearning.Services.Interfaces;
 using MVC_Project_ELearning.ViewModels;
 using MVC_Project_ELearning.ViewModels.About;
@@ -15,23 +16,28 @@ namespace MVC_Project_ELearning.Controllers
         private readonly ISliderService _sliderService;
         private readonly IInformationService _informationService;
         private readonly IAboutService _aboutService;
+        private readonly ICategoryService _categoryService;
 
         public HomeController(ISliderService sliderService, 
                               IInformationService informationService,
-                              IAboutService aboutService)
+                              IAboutService aboutService,
+                              ICategoryService categoryService)
         {
             _sliderService = sliderService;
             _informationService = informationService;
             _aboutService = aboutService;
+            _categoryService = categoryService;
         }
 
         public async Task<IActionResult> Index()
         {
            var slider = await _sliderService.GetAllAsync();
            var ınformation = await _informationService.GetAllAsync();
-            //var about =  await _aboutService.GetAllAsync();
-            var about = await _aboutService.GetByAboutAsync();
+           var about = await _aboutService.GetByAboutAsync();
 
+
+
+            var a = await _categoryService.GetAlWithProductCountAsync();
             HomeVM model = new()
             {
                 Sliders = slider.Select(m => new SliderVM
@@ -51,7 +57,10 @@ namespace MVC_Project_ELearning.Controllers
                     CreatedDate = m.CreatedDate
 
                 }),
-                Abouts =about
+                Abouts =about,
+                CategoryFirst = a.FirstOrDefault(),
+                CategoryLast = a.LastOrDefault(),
+                Categories = a.Skip(1).Take(2),
 
 
 

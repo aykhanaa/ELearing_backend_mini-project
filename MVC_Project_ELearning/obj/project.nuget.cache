@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rddQEarSSls=",
+  "dgSpecHash": "1Uilbl2fx8U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\Desktop\\MVC_Project_ELearning\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\MVC_Project_ELearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
