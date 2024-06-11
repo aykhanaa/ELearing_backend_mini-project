@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|solutionrelative:mvc_project_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\areas\\admin\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|solutionrelative:mvc_project_elearning\\areas\\admin\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\services\\sosialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|solutionrelative:mvc_project_elearning\\services\\sosialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\viewmodels\\socials\\socialcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|solutionrelative:mvc_project_elearning\\viewmodels\\socials\\socialcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|solutionrelative:mvc_project_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA378380-EAD5-463C-9DBD-A66C66F58485}|MVC_Project_ELearning\\MVC_Project_ELearning.csproj|c:\\users\\hp\\desktop\\elearing_backend_mini-project\\mvc_project_elearning\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,7 +122,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "SocialController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:19:03.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -126,12 +143,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAANUAAAAAAAAAAIAwwOwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:32:08.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T02:32:08.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
@@ -139,12 +155,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:27:32.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T02:27:32.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
@@ -152,12 +167,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T02:14:30.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T02:14:30.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SocialCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\ViewModels\\Socials\\SocialCreateVM.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\ViewModels\\Socials\\SocialCreateVM.cs",
@@ -165,12 +179,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\ViewModels\\Socials\\SocialCreateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:06:16.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T02:06:16.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "InstructorController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
@@ -178,12 +191,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAwwDEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T01:20:30.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T01:20:30.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
@@ -191,25 +203,24 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T15:58:44.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:58:44.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Program.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Program.cs",
               "RelativeToolTip": "MVC_Project_ELearning\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T16:07:03.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SosialService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\SosialService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\SosialService.cs",
@@ -222,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
@@ -234,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ISosialService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\Interfaces\\ISosialService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\Interfaces\\ISosialService.cs",
@@ -246,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
@@ -254,12 +265,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "ViewState": "AQIAABAAAAAAAAAAAAAwwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T15:58:47.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:58:47.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -267,12 +277,11 @@
               "RelativeToolTip": "MVC_Project_ELearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T16:01:52.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T16:01:52.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IInstructorService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\Interfaces\\IInstructorService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\Interfaces\\IInstructorService.cs",
@@ -284,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\CategoryService.cs",
@@ -296,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\ViewModels\\HomeVM.cs",
@@ -308,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\Interfaces\\ICategoryService.cs",
@@ -320,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "InstructorService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\InstructorService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\InstructorService.cs",
@@ -332,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Controllers\\HomeController.cs",
@@ -344,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Views\\Home\\Index.cshtml",
@@ -356,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -368,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CategoryCourseVM.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\ViewModels\\Categories\\CategoryCourseVM.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\ViewModels\\Categories\\CategoryCourseVM.cs",
@@ -380,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IInformationService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\Interfaces\\IInformationService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\Interfaces\\IInformationService.cs",
@@ -392,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Services\\Interfaces\\ICourseService.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Services\\Interfaces\\ICourseService.cs",
@@ -404,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Data\\AppDbContext.cs",
@@ -416,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Areas\\Admin\\Controllers\\CourseController.cs",
@@ -428,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Paginate.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_backend_mini-project\\MVC_Project_ELearning\\Helpers\\Paginate.cs",
               "RelativeDocumentMoniker": "MVC_Project_ELearning\\Helpers\\Paginate.cs",
